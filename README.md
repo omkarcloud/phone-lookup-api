@@ -24,17 +24,9 @@ REST API to get carrier name, line type (mobile/landline/VoIP), and phone number
 }
 ```
 
-## Authentication
+## Get API Key
 
-1. Create account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up)
-
-![Sign Up](https://raw.githubusercontent.com/omkarcloud/assets/master/images/signup.png)
-
-2. Get API key from [omkar.cloud/api-key](https://www.omkar.cloud/api-key)
-
-![Copy API Key](https://raw.githubusercontent.com/omkarcloud/assets/master/images/enrichment-key-omkar.png)
-
-3. Include `API-Key` header in requests
+Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key, and use it in requests. 5000 requests are free every month.
 
 ## Quick Start
 
